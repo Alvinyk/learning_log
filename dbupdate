@@ -1,3 +1,0 @@
-#!/bin/bash
-result=python manage.py makemigrations learning_logs
-echo "$result"

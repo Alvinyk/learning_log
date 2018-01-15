@@ -1,0 +1,3 @@
+#!/bin/bash
+source ll_env/bin/activate
+#python manage.py runserver
